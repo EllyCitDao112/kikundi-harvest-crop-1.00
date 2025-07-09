@@ -1,1 +1,20 @@
-body { background-color: #111; color: white; }
+
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 1rem;
+}
+button {
+  padding: 8px 12px;
+  background: #18a058;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  margin: 4px;
+}
+code {
+  background: #222;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
