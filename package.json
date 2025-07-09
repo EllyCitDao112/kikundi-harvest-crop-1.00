@@ -1,6 +1,6 @@
 {
-  "name": "kikundi-dapp",
-  "version": "1.01",
+  "name": "kikundi-harvest-crop-1.00",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

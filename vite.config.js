@@ -1,5 +1,10 @@
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+
 export default defineConfig({
   base: '/kikundi-harvest-crop-1.00/',
-  build: { outDir: 'docs' },
-  plugins: [react()]
+  plugins: [react()],
+  build: {
+    outDir: 'docs'
+  }
 });
